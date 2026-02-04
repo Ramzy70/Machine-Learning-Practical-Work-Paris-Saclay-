@@ -1,6 +1,4 @@
-# Machine-Learning-Practical-Work-Paris-Saclay
-
-# M2 AI & Machine Vision: Machine Learning Fundamentals
+# M2 AI & Machine Vision: Machine Learning Practicle Work
 
 This repository contains a collection of core machine learning algorithms implemented during my M2 at **Université Paris-Saclay**. The focus of these projects is "from-scratch" implementation using **NumPy** to deeply understand the underlying mathematics and optimization techniques required for research in AI and Computer Vision.
 
